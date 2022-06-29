@@ -32,6 +32,5 @@ for i, ax in enumerate(axes.flat):
 plt.show()
 ```
 ## Output:
-```
+
 ![Screenshot (246)](https://user-images.githubusercontent.com/75234946/176443536-9ec01a9d-dadd-48df-8e50-5ddff2b27e28.png)
-```
